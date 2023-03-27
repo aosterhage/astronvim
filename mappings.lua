@@ -18,6 +18,6 @@ return {
       end,
       desc = "Pick to close",
     },
-    ["<C-w>Q"] = { "<cmd>only<cr>", desc = "Close all windows except current" }
+    ["<C-w>Q"] = { "<cmd>only<cr>", desc = "Quit all windows except current" },
   },
 }
